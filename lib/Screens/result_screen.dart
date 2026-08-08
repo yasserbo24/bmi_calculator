@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class ResultScreen extends StatelessWidget {
   String report = '';
 
-  ResultScreen({super.key, required String report});
+  ResultScreen({super.key});
 
   @override
   Widget build(BuildContext context) {

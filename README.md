@@ -4,11 +4,7 @@ A clean and scalable **BMI Calculator** built with **Flutter**. This project was
 
 ---
 
-## 📸 Screenshots
 
-| Home Screen | Result Screen |
-|------------|---------------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
 
 ---
 
